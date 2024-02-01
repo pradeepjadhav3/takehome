@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>https://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Liberty Tools</title>
+    <link>https://marketplace.eclipse.org/content/liberty-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/OL_logomark_80_2.png&quot; width=&quot;107&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/awisniewski/listings&quot; title=&quot;Adam Wisniewski&quot;&gt;Adam Wisniewski&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-12-06 13:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2023-09-27 15:38&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22IBM%22&quot;&gt;IBM&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Liberty Tools for Eclipse IDE offers features for developing cloud-native Java applications with &lt;a href=&quot;https://openliberty.io&quot; rel=&quot;nofollow&quot;&gt;Open Liberty&lt;/a&gt; and &lt;a href=&quot;https://www.ibm.com/products/websphere-liberty&quot; rel=&quot;nofollow&quot;&gt;WebSphere Liberty&lt;/a&gt;. Iterate fast with Liberty dev mode, code with assistance for MicroProfile and Jakarta EE APIs, and easily edit Liberty configuration files. For more information, see the &lt;a href=&quot;https://github.com/OpenLiberty/liberty-tools-eclipse#welcome-to-the-liberty-tools-for-eclipse-project&quot; rel=&quot;nofollow&quot;&gt;project documentation in GitHub&lt;/a&gt; or check out a &lt;a href=&quot;https://youtu.be/OcgR_4BL12o&quot; rel=&quot;nofollow&quot;&gt;deep dive of Liberty Tools&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 06 Dec 2022 18:05:32 +0000</pubDate>
+ <dc:creator>awisniewski</dc:creator>
+ <guid isPermaLink="false">5571241 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/liberty-tools#comments</comments>
+  </item>
+  <item>
+    <title>Sonatype Nexus IQ</title>
+    <link>https://marketplace.eclipse.org/content/sonatype-nexus-iq</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/eclipse-plugin-110x80_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ssonatype/listings&quot; title=&quot;Sonatype Inc.&quot;&gt;Sonatype Inc.&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2020-07-13 11:17&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2023-09-27 09:55&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Sonatype%20Inc.%22&quot;&gt;Sonatype Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Select the best open source components for your projects using precise security intelligence directly within Eclipse.&lt;/p&gt;
+&lt;p&gt;The Nexus IQ plugin for Eclipse scans your open source dependencies for policy violations and security vulnerabilities, and provides actionable insights and remediation advice to help you fix issues in just a few clicks without leaving your favorite tools.&lt;/p&gt;
+&lt;p&gt;To use the plugin you must have a Nexus IQ license. Learn more visit &lt;a href=&quot;https://www.sonatype.com/&quot; rel=&quot;nofollow&quot;&gt;Sonatype.com&lt;/a&gt; or click here to &lt;a href=&quot;https://links.sonatype.com/products/clm/eclipse/doc&quot; rel=&quot;nofollow&quot;&gt;view download and installation instructions&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 13 Jul 2020 15:17:10 +0000</pubDate>
+ <dc:creator>ssonatype</dc:creator>
+ <guid isPermaLink="false">5173175 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/sonatype-nexus-iq#comments</comments>
+  </item>
+  <item>
+    <title>Teamscale Integration for Eclipse</title>
+    <link>https://marketplace.eclipse.org/content/teamscale-integration-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/logo_114.png&quot; width=&quot;110&quot; height=&quot;25&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/tkinnen/listings&quot; title=&quot;Thomas Kinnen&quot;&gt;Thomas Kinnen&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2015-02-12 10:16&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2023-09-26 10:20&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22CQSE%20GmbH%22&quot;&gt;CQSE GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The &lt;em&gt;Teamscale Integration for Eclipse&lt;/em&gt; allows for seamless browsing of quality defects found by the &lt;a href=&quot;https://www.teamscale.com/&quot; rel=&quot;nofollow&quot;&gt;Teamscale software‐quality analysis server&lt;/a&gt;. Teamscale analyzes your source code incrementally with every commit, providing feedback on the quality of your code in near real‐time. (&lt;strong&gt;Note: An existing Teamscale Server is necessary to use this plugin!&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;This plugin has the following features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Auto‐detect which branch is being used (Git &amp;amp; Subclipse/Subversive) and display all data accordingly&lt;/li&gt;
+&lt;li&gt;Display defects in the &lt;em&gt;Findings&lt;/em&gt; view&lt;/li&gt;
+&lt;li&gt;Allow comparison of clones using the clone compare editor&lt;/li&gt;
+&lt;li&gt;Display findings next to your code&lt;/li&gt;
+&lt;li&gt;Flag findings as tolerated or false-positive&lt;/li&gt;
+&lt;li&gt;Use baselines to only display defects that are new&lt;/li&gt;
+&lt;li&gt;Show test coverage from Teamscale server&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;To get started, Just follow the &lt;a href=&quot;https://cqse.eu/get-eclipse&quot; rel=&quot;nofollow&quot;&gt;installation guide&lt;/a&gt; and start using the Teamscale Integration in your Eclipse IDE.&lt;/p&gt;
+&lt;p&gt;See the &lt;a href=&quot;https://docs.teamscale.com/changelog/&quot; rel=&quot;nofollow&quot;&gt;changelog&lt;/a&gt; to find out what’s new.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 12 Feb 2015 15:16:07 +0000</pubDate>
+ <dc:creator>tkinnen</dc:creator>
+ <guid isPermaLink="false">2188950 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/teamscale-integration-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>Synopsys Code Sight</title>
+    <link>https://marketplace.eclipse.org/content/synopsys-code-sight</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/SilicontoSoftware-110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/scodesight/listings&quot; title=&quot;Synopsys Code Sight&quot;&gt;Synopsys Code Sight&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-02-15 16:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2023-09-26 10:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Synopsys%2C%20Inc%22&quot;&gt;Synopsys, Inc&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h3&gt;Synopsys Code Sight for Eclipse&lt;/h3&gt;
+
+&lt;p&gt;The Synopsys® Code Sight™ plug-in helps you find and fix security and quality issues in your software while you code. It can quickly identify vulnerabilities in both source code and open source dependencies, and help you fix them right in the IDE.&lt;/p&gt;
+&lt;p&gt;Code Sight can scan large projects and development artifacts in seconds, including:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;web and mobile application files,&lt;/li&gt;
+&lt;li&gt;microservices and&lt;/li&gt;
+&lt;li&gt;Infrastructure-as-Code *(IaC) configurations.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Code Sight will alert you to any detected issues, including:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;code security risks,&lt;/li&gt;
+&lt;li&gt;API safety standards,&lt;/li&gt;
+&lt;li&gt;cryptography issues,&lt;/li&gt;
+&lt;li&gt;hard-coded secrets, and&lt;/li&gt;
+&lt;li&gt;vulnerabilities in your open source dependencies (e.g. &lt;a href=&quot;https://www.synopsys.com/blogs/software-security/zero-day-exploit-log4j-analysis/&quot; rel=&quot;nofollow&quot;&gt;Log4j CVE-2021-44228&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Once the issues have been identified, Code Sight provides detailed remediation guidance and access to training directly in the IDE help you quickly fix issues today and write better code going forward.&lt;/p&gt;
+&lt;h3&gt;
+Code Sight Standard Edition Free Trial&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Sign up for a &lt;strong&gt;free trial&lt;/strong&gt; of Code Sight and get started in only a couple of minutes&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Code Sight Standard Edition uses integrated analysis of your code and open source dependencies to provide IDE-based security analysis without requiring installation of a centralized SAST or SCA solution. Sign-up for the trial directly within the plug-in and start scanning code in less than five minutes. &lt;a href=&quot;https://www.synopsys.com/software-integrity/code-sight/contact-sales.html?utm_medium=referral&quot; rel=&quot;nofollow&quot;&gt;Contact us&lt;/a&gt; if you have any license or product questions.&lt;/p&gt;
+&lt;p&gt;Code Sight Standard Edition is very easy to use, and if you’d like some recommendations on how to get the most out of it, check out these resources:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.iorad.com/player/2006261&quot; rel=&quot;nofollow&quot;&gt;Code Sight Standard Edition Interactive Tour&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://community.synopsys.com/s/article/Getting-Started-With-Code-Sight-Standard-Edition&quot; rel=&quot;nofollow&quot;&gt;Code Sight Standard Edition Getting Started Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;
+Code Sight Plug-In for Black Duck and Coverity&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Extend the capabilities of your Synopsys tools to the developer desktop&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Existing Synopsys customers can connect Code Sight with their Coverity SAST or Black Duck SCA deployments to give developers direct access to these tools’ deeper analysis and enhanced capabilities, with the flexibility to use the built-in Rapid Scan capabilities included in Code Sight Standard Edition. After you install the Code Sight plug-in, simply click the “Enable Coverity” or “Enable Black Duck” buttons to connect Code Sight to these tools.&lt;/p&gt;
+&lt;p&gt;For more information, refer to the quick start guides below:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;//sig-product-docs.synopsys.com/bundle/codesight_latest/page/topics/quick_starts/r_code_sight_quick_start_black_duck.html&quot; rel=&quot;nofollow&quot;&gt;Code Sight for Black Duck Quick Start&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sig-product-docs.synopsys.com/bundle/codesight_latest/page/topics/quick_starts/r_code_sight_quick_start_coverity.html&quot; rel=&quot;nofollow&quot;&gt;Code Sight for Coverity Quick Start&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Additional information can be found here:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://sig-product-docs.synopsys.com/bundle/codesight_latest/page/topics/c_code_sight_welcome.html&quot; rel=&quot;nofollow&quot;&gt;Code Sight Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://community.synopsys.com/s/article/Code-Sight-Tutorials&quot; rel=&quot;nofollow&quot;&gt;Code Sight Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;
+License Terms&lt;/h3&gt;
+
+&lt;p&gt;By downloading this plug-in, you are agreeing to the &lt;a href=&quot;https://www.synopsys.com/content/dam/synopsys/sig-assets/legal/eulm/2021-1/eEULM-(Americas-Africa-Israel)-v2021.1-Final.pdf&quot; rel=&quot;nofollow&quot;&gt; Synopsys End User License Agreement&lt;/a&gt;. Users with active commercial licenses for Coverity SAST or Black Duck SCA can also use Code Sight free of charge.&lt;/p&gt;
+&lt;h3&gt;
+Resources&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://community.synopsys.com/s/code-sight-hub&quot; rel=&quot;nofollow&quot;&gt;Support Portal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sig-product-docs.synopsys.com/bundle/codesight_latest&quot; rel=&quot;nofollow&quot;&gt;Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.iorad.com/player/2006261&quot; rel=&quot;nofollow&quot;&gt;Interactive Tour&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.synopsys.com/software-integrity.html&quot; rel=&quot;nofollow&quot;&gt;Synopsys Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.synopsys.com/software-integrity/code-sight/contact-sales.html?utm_medium=referral&quot; rel=&quot;nofollow&quot;&gt;Contact Us&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;mailto:sig_sbom_request@synopsys.com?subject=Code%20Sight%20SBOM%20Request&quot; rel=&quot;nofollow&quot;&gt;Request SBOM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 15 Feb 2019 21:30:35 +0000</pubDate>
+ <dc:creator>scodesight</dc:creator>
+ <guid isPermaLink="false">4503269 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/synopsys-code-sight#comments</comments>
+  </item>
+  <item>
+    <title>tlv8</title>
+    <link>https://marketplace.eclipse.org/content/tlv8</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/tlv8ide128.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/chenqian/listings&quot; title=&quot;chen qian&quot;&gt;chen qian&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2021-10-24 09:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2023-09-25 10:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Rapid development tools&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It is a Java EE project development tool integrating Tomcat plug-in, database plug-in, report design (visualization), process design (visualization), web design (visualization), etc. It can realize rapid development of business system, rapid development of report system (only SQL) and rapid customization of workflow.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Product website: &lt;a href=&quot;https://www.tlv8.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;www.tlv8.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Help documentation: &lt;a href=&quot;https://doc.tlv8.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;doc.tlv8.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;快速开发工具&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;       集成了tomcat插件，数据库插件，报表设计（可视化），流程设计（可视化），网页设计（可视化）等多功能于一体的JAVA EE项目开发工具。能够实现业务系统快速开发，报表系统快速开发（只需要会SQL），工作流快速定制。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;产品网站: &lt;a href=&quot;https://www.tlv8.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;www.tlv8.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;帮助文档: &lt;a href=&quot;https://doc.tlv8.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;doc.tlv8.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 24 Oct 2021 13:00:22 +0000</pubDate>
+ <dc:creator>chenqian</dc:creator>
+ <guid isPermaLink="false">5466625 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/tlv8#comments</comments>
+  </item>
+  <item>
+    <title>InnoPhase IoT Software Development Tool</title>
+    <link>https://marketplace.eclipse.org/content/innophase-iot-software-development-tool</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/Innophase_IoT_icon_for_eclipse_plugin.png&quot; width=&quot;110&quot; height=&quot;72&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/innophaseiot/listings&quot; title=&quot;innophase iot&quot;&gt;innophase iot&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2023-06-06 15:40&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2023-09-25 06:16&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22InnoPhase%20IoT%2C%20Inc.%22&quot;&gt;InnoPhase IoT, Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;InnoPhase IoT Software Development Too&lt;/strong&gt;l for Eclipse supports application development for InnoPhase IoT Talaria TWO Wi-Fi modules.&lt;/p&gt;
+&lt;p&gt;Talaria TWO modules are ultra-low power 802.11 b/g/n Wi-Fi modules, ideally suited for IoT solutions such as smart door locks, remote security cameras, connected sensors or other space-constrained products within home, commercial, industrial and health markets.&lt;/p&gt;
+&lt;p&gt;InnoPhase IoT Software Development Tool simplifies building and debugging of applications for Talaria TWO Wi-Fi modules.&lt;/p&gt;
+&lt;p&gt;Additional support provided for:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Flashing application onto Talaria TWO module&lt;/li&gt;
+&lt;li&gt;Configuring settings for OpenOCD debugging&lt;/li&gt;
+&lt;li&gt;Monitoring Talaria TWO module console output&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Supported Eclipse IDE:&lt;/strong&gt; Eclipse IDE for Embedded C/C++ Developers of Eclipse IDE 2022-09 R Packages and higher.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Company website:&lt;/strong&gt; Visit &lt;strong&gt;&lt;a href=&quot;https://innophaseiot.com/&quot; rel=&quot;nofollow&quot;&gt;https://innophaseiot.com/&lt;/a&gt;&lt;/strong&gt; for more information about the products.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 06 Jun 2023 19:40:15 +0000</pubDate>
+ <dc:creator>innophaseiot</dc:creator>
+ <guid isPermaLink="false">5616084 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/innophase-iot-software-development-tool#comments</comments>
+  </item>
+  <item>
+    <title>DBeaver</title>
+    <link>https://marketplace.eclipse.org/content/dbeaver</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/Community_icon.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/sriderdp1/listings&quot; title=&quot;Serge Rider&quot;&gt;Serge Rider&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2012-11-04 11:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2023-09-24 15:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22DBeaver%20Corp%22&quot;&gt;DBeaver Corp&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;DBeaver is free universal SQL client/database tool for developers and database administrators. It can work with any database server which has JDBC or ODBC driver. It supports pluggable extensions.&lt;/p&gt;
+&lt;p&gt;Features: database schema browser, metadata editor (tables, columns, keys, indexes), SQL statements/scripts execution, SQL highlighting, autocompletion, formatting; result set/table view/edit/search; BLOB/CLOB view/edit support; GIS spatial data viewer, scrollable resultsets; transactions management; database metadata and full-text search; ER diagrams; server sessions management, transaction locks management, SSH/SOCKS support; automatic drivers download; stored procedures debugger; data import/export/migration; task management, database health monitoring dashboards; spatial data viewer; git integration; office formats support; etc.&lt;/p&gt;
+&lt;p&gt;Includes drivers for: MySQL, MariaDB, Oracle, DB2, PostgreSQL, SQL Server, Sybase, Apache Hive, Drill, Presto, Trino, Phoenix, Exasol, Informix, Teradata, Vertica, Netezza, Firebird, Derby, H2, H2GIS, WMI, Snowflake, Greenplum, AWS Redshift, AWS Athena, SAP HANA, MaxDB, NuoDB, MS Access, SQLite, CSV, DBF, Firebird, TimescaleDB, Yellowbrick, CockroachDB, OrientDB, MonetDB, Google BigQuery, Google Spanner, Apache Hive/Impala/Spark, Apache Ignite, MapD, Azure SQL, CrateDB, Elasticsearch, Ocient, Ingres, OmniSci, Yugabyte, IRIS, Data Virtuality, Denodo, DuckDB, Babelfish, OceanBase, Salesforce, EnterpriseDB, Apache Druid, Apache Kylin, Azure Databricks, OpenSearch, TiDB, TDEngine, Materialize, JDBCX.&lt;/p&gt;
+&lt;p&gt;Supports Color Theme and Darkest Dark themes.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Standalone version download available on &lt;a href=&quot;https://dbeaver.io/download/&quot; rel=&quot;nofollow&quot;&gt;https://dbeaver.io/download/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Source code: &lt;a href=&quot;https://github.com/dbeaver/dbeaver&quot; rel=&quot;nofollow&quot;&gt;https://github.com/dbeaver/dbeaver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;User guide: &lt;a href=&quot;https://github.com/dbeaver/dbeaver/wiki&quot; rel=&quot;nofollow&quot;&gt;https://github.com/dbeaver/dbeaver/wiki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 04 Nov 2012 16:30:36 +0000</pubDate>
+ <dc:creator>sriderdp1</dc:creator>
+ <guid isPermaLink="false">507775 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/dbeaver#comments</comments>
+  </item>
+  <item>
+    <title>Design and Verification Tools (DVT) IDE for e, SystemVerilog, VHDL, and PSS</title>
+    <link>https://marketplace.eclipse.org/content/design-and-verification-tools-dvt-ide-e-systemverilog-vhdl-and-pss</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/AMIQ_logo_web_110x63.jpg&quot; width=&quot;110&quot; height=&quot;63&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/emisingname6ia/listings&quot; title=&quot;AMIQ EDA&quot;&gt;AMIQ EDA&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2006-04-19 08:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2023-09-23 12:50&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22AMIQ%20EDA%22&quot;&gt;AMIQ EDA&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Design and Verification Tools (DVT) is an integrated development environment (IDE) for the design and verification engineers working with &lt;strong&gt;SystemVerilog, Verilog, VHDL, e, UPF, CPF, SLN, PSS, SDL&lt;/strong&gt;. &lt;strong&gt;Including Universal Verification Methodology (UVM)&lt;/strong&gt; support. It is similar to well-known programming tools like Visual Studio®, NetBeans®, and IntelliJ®. DVT comprises a proprietary IEEE standard-compliant parser, a smart code editor, an intuitive GUI, a comprehensive set of features that help with code inspection, navigation, documentation, and debugging, and an innovative linting framework. DVT allows design and verification engineers to overcome the limitations of plain text editors and use a modern and powerful tool that enables them to:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Increase the speed and quality of new code development&lt;/li&gt;
+&lt;li&gt;Easily understand complex or poorly documented source code&lt;/li&gt;
+&lt;li&gt;Simplify the maintenance of legacy code and reusable libraries&lt;/li&gt;
+&lt;li&gt;Accelerate language and methodology learning&lt;/li&gt;
+&lt;li&gt;Automatically generate well-organized source code documentation&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;
+FEATURES  Some of the features that DVT offers include:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Compilation errors signaled on the fly&lt;/li&gt;
+&lt;li&gt;Autocomplete / Content Assist&lt;/li&gt;
+&lt;li&gt;Customizable code and project templates&lt;/li&gt;
+&lt;li&gt;Dedicated wizards to generate getters and setters, override functions, or help with UVM factory registration&lt;/li&gt;
+&lt;li&gt;Hyperlinks&lt;/li&gt;
+&lt;li&gt;Semantic Search and Show Usages&lt;/li&gt;
+&lt;li&gt;Quick fixes / Autocorrect&lt;/li&gt;
+&lt;li&gt;Refactoring&lt;/li&gt;
+&lt;li&gt;Macro expansion&lt;/li&gt;
+&lt;li&gt;Project database query views (types, macros, checks, etc.)&lt;/li&gt;
+&lt;li&gt;Structural views (type hierarchy, design hierarch, call hierarchy, etc.)&lt;/li&gt;
+&lt;li&gt;Signal tracing&lt;/li&gt;
+&lt;li&gt;UML and TLM diagrams for inspecting and documenting the verification environment&lt;/li&gt;
+&lt;li&gt;Schematic, trace, state machine diagrams for inspecting and documenting the design&lt;/li&gt;
+&lt;li&gt;Dedicated UVM support&lt;/li&gt;
+&lt;li&gt;Cross-language capabilities for mixed-language projects&lt;/li&gt;
+&lt;li&gt;In-line reminders for task tracking (TO DOs)&lt;/li&gt;
+&lt;li&gt;Vi and emacs emulation&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;INTEGRATION WITH OTHER TOOLS Since it is built on the Eclipse Platform, the DVT IDE can be easily integrated within a large plug-in ecosystem. It also integrates seamlessly with all major hardware simulators such as NCSim , Specman , VCS , and Questa, to enable simplified simulation analysis and debugging. In addition, it works with revision control systems like CVS, Git, Subversion, ClearCase and bug tracking systems such as Bugzilla and ClearQuest.&lt;br /&gt;
+RESOURCES &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.dvteclipse.com/products/dvt-eclipse-ide&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;DVT Eclipse IDE Web Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.dvteclipse.com/datasheets/amiq_dvt_datasheet.pdf&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;DVT Eclipse IDE Datasheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLBx64n-99iZNiUJj_I8WkLLbRl8u0mi94&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Demo movies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.dvteclipse.com/products/dvt-debugger&quot; rel=&quot;nofollow&quot;&gt;DVT Debugger Add-on&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 19 Apr 2006 12:00:18 +0000</pubDate>
+ <dc:creator>emisingname6ia</dc:creator>
+ <guid isPermaLink="false">192 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/design-and-verification-tools-dvt-ide-e-systemverilog-vhdl-and-pss#comments</comments>
+  </item>
+  <item>
+    <title>CodeTogether</title>
+    <link>https://marketplace.eclipse.org/content/codetogether</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/codetogether-full-logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2020-03-05 15:48&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2023-09-21 04:07&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Genuitec%2C%20LLC%22&quot;&gt;Genuitec, LLC&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Add &lt;a href=&quot;https://www.codetogether.com/dOpk/&quot; rel=&quot;nofollow&quot;&gt;CodeTogether&lt;/a&gt; to Eclipse to live share your IDE and coding sessions. Cross-IDE support for Eclipse, IntelliJ, and VS Code. See changes in real time, even when coding in the same file, like Google Docs for your code. So many uses: pair programming, mob programming, code review, project design, unit testing, education, interviews, remote development and more.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Free plan with anonymous usage is always available.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Cross-IDE support.&lt;/strong&gt; Host &lt;em&gt;and &lt;/em&gt;join from Eclipse, VS Code, or IntelliJ.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Browser too. &lt;/strong&gt;IDE functionality with just a URL, even edit from a phone or tablet.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simple and Easy. &lt;/strong&gt;See the &lt;a href=&quot;https://www.codetogether.com/XaVB/docs/getting-started-with-codetogether/&quot; rel=&quot;nofollow&quot;&gt;Getting Started Guide&lt;/a&gt; for details. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrated communications.&lt;/strong&gt; Audio, video, text chat, screen sharing, &amp;amp; more.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Secure. &lt;/strong&gt;Sessions are &lt;a href=&quot;https://www.codetogether.com/dOpk/download/security/&quot; rel=&quot;nofollow&quot;&gt;end-to-end encrypted&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Real-time editing. &lt;/strong&gt;See changes immediately, even when editing the same file.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Host-based intelligence. &lt;/strong&gt;Exceptional content assist, validation &amp;amp; navigation for all.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Efficient. &lt;/strong&gt;No resource drain, lag time or artifacting like with screen sharing.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Shared consoles &amp;amp; terminals. &lt;/strong&gt;Host-controlled with optional write access.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Share local servers. &lt;/strong&gt;Expose to your guests web apps running locally.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Run tests.&lt;/strong&gt; Everyone gets to write, run &amp;amp; analyze tests; perfect for TDD.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Remote launches.&lt;/strong&gt; Guests can run applications from the host IDE.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;CodeTogether Pro. &lt;/strong&gt;The perfect upgrade for professionals.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CodeTogether Teams. &lt;/strong&gt;Simplifies collaboration with team-centric flows.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CodeTogether On-Premises.&lt;/strong&gt; &lt;a href=&quot;https://www.codetogether.com/XaVB/on-premises/&quot; rel=&quot;nofollow&quot;&gt;Deploy&lt;/a&gt; behind your firewall. Supports multi-server deployment and SSO integration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SAP ABAP support. &lt;/strong&gt;Collaborate &amp;amp; live share code that resides on an SAP server.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 05 Mar 2020 20:48:34 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">5012014 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/codetogether#comments</comments>
+  </item>
+  <item>
+    <title>P4Eclipse</title>
+    <link>https://marketplace.eclipse.org/content/p4eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/p4eclipse-icon_0.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/dwongcn1/listings&quot; title=&quot;Doris Wong&quot;&gt;Doris Wong&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2010-09-01 11:25&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2023-09-20 18:35&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Perforce%20Software%22&quot;&gt;Perforce Software&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;New in P4Eclipse 2022.2 is support for Eclipse 4.20, 4.21, 4.22, 4.23, 4.24, 4.25, 4.26, and 4.27. The Helix Plug-in for Eclipse seamlessly integrates the strengths of the Perforce Helix Versioning Engine with Eclipse. Implemented as a pure Java solution, P4Eclipse provides a developer-oriented set of features from within the Eclipse Team framework and supports a wide range of Agile and traditional development workflows.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 01 Sep 2010 15:25:08 +0000</pubDate>
+ <dc:creator>dwongcn1</dc:creator>
+ <guid isPermaLink="false">9209 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/p4eclipse#comments</comments>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.testng.eclipse.launchconfig">
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.testng.remote.RemoteTestNG"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Demo1"/>
+    <listAttribute key="org.testng.eclipse.SUITE_TEST_LIST">
+        <listEntry value="C:\Users\HP\eclipse-committers-2018-09-win32-x86_64-20221204T091832Z-001\eclipse-committers-2018-09-win32-x86_64\seleniumAutomation\Demo1\testng.xml"/>
+    </listAttribute>
+    <intAttribute key="org.testng.eclipse.TYPE" value="3"/>
+</launchConfiguration>

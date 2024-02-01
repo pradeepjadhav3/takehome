@@ -1,0 +1,35 @@
+package Java;
+
+import java.util.Scanner;
+
+public class Factorial {
+//1!+2!+3!/3!
+	public static void main(String[] args) {
+		System.out.println("Enter any number for to calclulate factorial");
+		Scanner sc=new Scanner(System.in);
+		int number=sc.nextInt();
+		int fact=1;
+		int fact1=1;
+		int fact2=1;
+       for(int i=1;i<=number;i++)
+       {
+    	   fact=fact*i;
+       }      
+      for(int j=1;j<=number;j++)
+      {
+    	fact1=fact1*j;
+      }
+      for(int k=1;k<=number;k++)
+      {
+    	  fact2=fact2*k;
+      }
+      System.out.println("factorial number="+fact);
+      System.out.println("factorial number="+fact1);
+      System.out.println("factorial number="+fact2);  
+	}
+      
+	}
+   
+	
+
+
