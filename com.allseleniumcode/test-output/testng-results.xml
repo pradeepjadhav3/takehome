@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-30T14:46:32 IST" name="Suite" finished-at="2025-03-30T14:46:44 IST" duration-ms="11393">
+    <groups>
+    </groups>
+    <test started-at="2025-03-30T14:46:32 IST" name="Test" finished-at="2025-03-30T14:46:44 IST" duration-ms="11393">
+      <class name="com.flipkart.webpagetest.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.flipkart.webpagetest.LoginTest@5afa3c9]" started-at="2025-03-30T14:46:33 IST" name="setup" finished-at="2025-03-30T14:46:42 IST" duration-ms="9362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tesValiidlogin()[pri:1, instance:com.flipkart.webpagetest.LoginTest@5afa3c9]" started-at="2025-03-30T14:46:42 IST" name="tesValiidlogin" description="Enter the mobile number or email id" finished-at="2025-03-30T14:46:44 IST" duration-ms="1647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesValiidlogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flipkart.webpagetest.LoginTest@5afa3c9]" started-at="2025-03-30T14:46:44 IST" name="tearDown" finished-at="2025-03-30T14:46:44 IST" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.flipkart.webpagetest.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -2,10 +2,18 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.ecommerce.filpkart"/>
+			<item value="com.ccavenues.com"/>
+			<item value="TestngBasic"/>
+			<item value="com.allseleniumcode"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="com.ecommerce.filpkart"/>
+			<item value="avenus"/>
+			<item value="Testng"/>
+			<item value="com.allseleniumcode"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -44,6 +52,12 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\HP\eclipse-committers-2018-09-win32-x86_64-20221204T091832Z-001\eclipse-committers-2018-09-win32-x86_64\seleniumAutomation\com.allseleniumcode"/>
+			<item value="C:\Users\HP\eclipse-committers-2018-09-win32-x86_64-20221204T091832Z-001\eclipse-committers-2018-09-win32-x86_64\seleniumAutomation\com.zoho\src\test\java\com\zoho\com\zoho\SignUp.java"/>
+			<item value="C:\Users\HP\eclipse-committers-2018-09-win32-x86_64-20221204T091832Z-001\eclipse-committers-2018-09-win32-x86_64\seleniumAutomation\bankingproject"/>
+			<item value="C:\Users\HP\eclipse-committers-2018-09-win32-x86_64-20221204T091832Z-001\eclipse-committers-2018-09-win32-x86_64\seleniumAutomation\CCavenues"/>
+			<item value="C:\Users\HP\eclipse-committers-2018-09-win32-x86_64-20221204T091832Z-001\eclipse-committers-2018-09-win32-x86_64\seleniumAutomation\bankingproject\CCavenues"/>
+			<item value="C:\Users\HP\eclipse-committers-2018-09-win32-x86_64-20221204T091832Z-001\eclipse-committers-2018-09-win32-x86_64\seleniumAutomation\bankingproject\pom.xml"/>
 			<item value="C:\Users\HP\eclipse-committers-2018-09-win32-x86_64-20221204T091832Z-001\eclipse-committers-2018-09-win32-x86_64\seleniumAutomation\TestseleniumAutomation"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -57,13 +71,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.infosys.banking.bankingproject"/>
 		</list>
 		<list key="groupId">
-			<item value="com.infosys.banking"/>
 		</list>
 		<list key="artifactId">
-			<item value="bankingproject"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

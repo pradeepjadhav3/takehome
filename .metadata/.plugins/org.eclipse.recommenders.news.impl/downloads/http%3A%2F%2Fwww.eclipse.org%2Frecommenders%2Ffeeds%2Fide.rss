@@ -10,11 +10,10 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
-<!-- End Google Tag Manager -->        <meta name="author" content="Webmaster"/>
-        <meta name="keywords" content="Archived, old, closed, suspended, shutdown, closed"/>
+<!-- End Google Tag Manager -->        <meta name="keywords" content="Archived, old, closed, suspended, shutdown, closed"/>
     <link rel="shortcut icon" href="/eclipse.org-common/themes/solstice/public/images/favicon.ico"/>
     <title>Archived Projects | The Eclipse Foundation</title>
-    <link rel="preconnect stylesheet" href="/eclipse.org-common/themes/solstice/public/stylesheets/astro.min.css?v0.0.248"/>
+    <link rel="preconnect stylesheet" href="https://www.eclipse.org/public/css/astro.css?v=0.1.2"/>
 <meta name="description" content="The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 415 open source projects, including runtimes, tools and frameworks."/>
 <meta property="og:description" content="The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 415 open source projects, including runtimes, tools and frameworks."/>
 <meta property="og:image" content="https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-200x200.png"/>
@@ -194,6 +193,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </li>
                     <li>
                       <a class="mobile-menu-item"
+                        href="https://www.eclipse.org/specifications/">Specifications</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item"
                         href="https://www.eclipse.org/contribute/">Contribute</a>
                     </li>
                   </ul>
@@ -233,8 +236,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </li>
                     <li>
                       <a class="mobile-menu-item"
-                        href="https://membership.eclipse.org/application">Membership
+                      href="https://www.eclipse.org/membership/#tab-membership">Membership
                       Application</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item"
+                      href="https://www.eclipse.org/membership/#tab-resources">Member Resources</a>
                     </li>
                     <li>
                       <a class="mobile-menu-item"
@@ -255,9 +262,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li>
                       <a class="mobile-menu-item"
                         href="https://newsroom.eclipse.org/">Sponsor</a>
-                    </li>
-                    <li>
-                      <a class="mobile-menu-item" href="https://www.eclipse.org/org/corporate_sponsors/">Corporate Sponsorship</a>
                     </li>
                     <li>
                       <a class="mobile-menu-item" href="https://www.eclipse.org/sponsor/collaboration/">Sponsor a Collaboration</a>
@@ -338,6 +342,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       <a class="mobile-menu-item" href="https://www.eclipse.org/org/value/">Business Value of Open Source</a>
                     </li>
                     <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/os4biz/services/">Professional Services</a>
+                    </li>
+                    <li>
                       <a class="mobile-menu-item" href="https://www.eclipse.org/os4biz/ospo/">Open Source Program Offices</a>
                     </li>
                   </ul>
@@ -381,9 +388,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     id="developer-resources-sub-menu">
                     <li>
                       <a class="mobile-menu-item" href="https://www.eclipse.org/forums/">Forum</a>
-                    </li>
-                    <li>
-                      <a class="mobile-menu-item" href="https://wiki.eclipse.org/">Wiki</a>
                     </li>
                     <li>
                       <a class="mobile-menu-item" href="https://accounts.eclipse.org/mailing-list">Mailing Lists</a>
@@ -451,7 +455,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       <a class="mobile-menu-item" href="https://www.eclipse.org/legal/termsofuse.php">Terms of Use</a>
                     </li>
                     <li>
-                      <a class="mobile-menu-item" href="https://www.eclipse.org/legal/copyright.php">Copyright Agent</a>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/legal/compliance/">Compliance</a>
                     </li>
                     <li>
                       <a class="mobile-menu-item" href="https://www.eclipse.org/legal/epl-2.0/">Eclipse Public License</a>
@@ -531,6 +535,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           <a href="https://www.eclipse.org/projects/resources/">Project Resources</a>
                       </li>
                       <li>
+                          <a href="https://www.eclipse.org/specifications/">Specifications</a>
+                      </li>
+                      <li>
                           <a href="https://www.eclipse.org/contribute/">Contribute</a>
                       </li>
                   </ul>
@@ -572,8 +579,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               Fees</a>
                       </li>
                       <li>
-                          <a href="https://membership.eclipse.org/application">Membership
-                              Application</a>
+                        <a href="https://www.eclipse.org/membership/#tab-membership">Membership Application</a>
+                      </li>
+                      <li>
+                        <a href="https://www.eclipse.org/membership/#tab-resources">Member Resources</a>
                       </li>
                       <li>
                           <a href="https://membership.eclipse.org/portal">Member Portal</a>
@@ -585,9 +594,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <ul>
                       <li>
                           <a href="https://www.eclipse.org/sponsor/">Sponsor</a>
-                      </li>
-                      <li>
-                          <a href="https://www.eclipse.org/org/corporate_sponsors/">Corporate Sponsorship</a>
                       </li>
                       <li>
                           <a href="https://www.eclipse.org/sponsor/collaboration/">Sponsor a Collaboration</a>
@@ -678,6 +684,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           <a href="https://www.eclipse.org/org/value/">Business Value of Open Source</a>
                       </li>
                       <li>
+                          <a href="https://www.eclipse.org/os4biz/services/">Professional Services</a>
+                      </li>
+                      <li>
                           <a href="https://www.eclipse.org/os4biz/ospo/">Open Source Program Offices</a>
                       </li>
                   </ul>
@@ -707,9 +716,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <ul>
                       <li>
                           <a href="https://www.eclipse.org/forums/">Forum</a>
-                      </li>
-                      <li>
-                          <a href="https://wiki.eclipse.org/">Wiki</a>
                       </li>
                       <li>
                           <a href="https://accounts.eclipse.org/mailing-list">Mailing Lists</a>
@@ -774,7 +780,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           <a href="https://www.eclipse.org/legal/termsofuse.php">Terms of Use</a>
                       </li>
                       <li>
-                          <a href="https://www.eclipse.org/legal/copyright.php">Copyright Agent</a>
+                          <a href="https://www.eclipse.org/legal/compliance/">Compliance</a>
                       </li>
                       <li>
                           <a href="https://www.eclipse.org/legal/epl-2.0/">Eclipse Public License</a>
@@ -836,180 +842,201 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 
     <div id="midcolumn">
 	  <h2>Archived Eclipse Projects</h2>
-      <p> You are seeing this because the project you were looking for has been archived.  When projects are archived their data(downloads,source and website), is collected into a single tar.gz file.</p>
-      <p><h4>Please note: Some projects did not have all of the above data.</h4></p>
-      <p><h4>Please note: The source files (if available) included in these files are direct copies of the available CVS/SVN data.  You will need to load them into a local CVS/SVN repository to access the history.</h4></p>
-      <p><h4>Please note: Some of these archives are larger than 3GB</h4></p>
+      <p><h3> You are seeing this because the project you were looking for has been archived.  When projects are archived their available data(ie: downloads,source and website) is collected into a single TGZ file.</h3></p>
+      <p><h4>Please note: The source files (if available) included in these files are direct copies of the available CVS/SVN/GIT data.  For CVS/SVN you will need to load them into a local server to access the history.</h4></p>
+      <p><h4>Please note: Since these files are quite large, the archive locations are not provided as clickable links.</h4></p>
 
       <div id="homeitem">
         </br>
-        <p><a href="http://archive.eclipse.org/archived_projects/3p.tgz">3p</a> project.  Archived: November 2021</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/alf.tgz">ALF</a> project.  Archived: January 2009</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/albireo.tgz">Albireo</a> project.  Archived: January 2011</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/amp.tgz">AMP</a> project.  Archived: October 2023</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/am3.tgz">AM3</a> project.  Archived: November 2012</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/antenna.tgz">Antenna</a> project.  Archived: February 2021</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/apricot.tgz">Apricot</a> project.  Archived: August 2019</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/apogee.tgz">Apogee</a> project.  Archived: January 2011</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/apogy.tgz">Apogy</a> project.  Archived: October 2023</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/atf.tgz">ATF</a> project.  Archived: May 2020</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/athena.tgz">Athena</a> project.  Archived: January 2012</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/amw.tgz">AMW</a> project.  Archived: March 2015</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/avsys.tgz">Avsys</a> project.  Archived: February 2022</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/bfb.tgz" alt="Automotive BFB" >BFB</a> project. Archived: November 2023.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/bridgeiot.tgz" alt="BridgeIoT Archive" >BridgeIoT</a> project. Archived: February 2022.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/blinki.tgz" alt="DSDP Blinki Archive" >DSDP Blinki</a> project. Archived: October 2010.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/bpel.tgz">BPEL</a> project.  Archived: October 2022</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/bpmn.tgz">BPMN</a> project.  Archived: January 2012</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/buckminster.tgz">Buckminster</a> project.  Archived: February 2019</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/camf.tgz">CAMF</a> project.  Archived: October 2023</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/cdtk.tgz">CDTK</a> project.  Archived: January 2012</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/ceylon.tgz">Ceylon</a> project.  Archived: April 2023</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/cme-project.tar.gz">CME</a> project.  Archived: January 2006</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/codewind.tgz">Codewind</a> project.  Archived: November 2022</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/corona.tgz">Corona</a> project.  Archived: April 2010</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/cosmos.tgz">Cosmos</a> project.  Archived: January 2012</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/cobol.tgz">Cobol</a> project.  Archived: February 2010</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/concierge.tgz">Concierge</a> project.  Archived: November 2022</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/damos.tgz">Damos</a> project.  Archived: February 2019</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/dataeggs.tgz">DataEggs</a> project.  Archived: January 2023</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/dd.tgz" alt="DSDP DD Archive" >DSDP DD</a> project. Archived: October 2010.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/dsdp.tgz" alt="DSDP Archive" >DSDP</a> project. Archived: September 2011.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/doc2model.tgz" alt="Doc2Model Archive" >Doc2Model</a> project. Archived: January 2015.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/e4.tgz">E4</a> project.  Archived: January 2024</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/eatop.tgz">Modeling EATop</a> project.  Archived: March 2021</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/ebr.tgz">RT EBR</a> project.  Archived: February 2023</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/edje.tgz">IOT Edje</a> project.  Archived: November 2018</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/esl.tgz">ESL</a> project.  Archived: January 2012</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/emfindex.tgz">EMFindex</a> project.  Archived: July 2012</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/eplmp.tgz">Polarsys EPLMP</a> project.  Archived: December 2021</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/ercp.tgz">ERCP</a> project.  Archived: December 2012</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/examples.tgz">Examples</a> project.  Archived: January 2014</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/emf-facet.tgz">EMF Facet</a> project.  Archived: May 2020</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/epf.tgz">EPF</a> project.  Archived: February 2023</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/featuremodel.tgz">Featuremodel</a> project.  Archived: March 2015</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/flux.tgz">Flux</a> project.  Archived: February 2019</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/fmc.tgz">FMC</a> project.  Archived: June 2022</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/fproj.tgz">Fproj</a> project.  Archived: January 2012</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/ganomatic.tgz">Ganomatic</a> project.  Archived: January 2012</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/gems.tgz">Gems</a> project.  Archived: January 2015</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/geobench.tgz">GeoBench</a> project.  Archived: March 2021</p>
-        <p><a href="http://archive.locationtech.org/archived_projects/geoff.tgz">Geoff</a> project.  Archived: May 2017</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/geoperil.tgz">GeoPeril</a> project.  Archived: November 2023</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/glassfish-tools.tgz">Glassfish-tools</a> project.  Archived: November 2021</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/glimmer.tgz">Glimmer</a> project.  Archived: January 2011</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/g-eclipse.tgz">g-Eclipse</a> project.  Archived: January 2014</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/gef3d.tgz">GEF 3D</a> project.  Archived: March 2021</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/gmf-tooling.tgz">GMF Tooling</a> project.  Archived: September 2023</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/golo.tgz">Golo</a> project.  Archived: September 2022</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/gyrex.tgz">gyrex</a> project.  Archived: March 2018</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/hibachi.tgz">Hibachi</a> project.  Archived: January 2011</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/hip.tgz">Hip</a> project.  Archived: August 2019</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/higgins.tgz">Higgins</a> project.  Archived: April 2017</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/hudson.tgz">Hudson</a> project.  Archived: February 2021</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/iam.tgz">Iam</a> project.  Archived: January 2012</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/ignite.tgz">Ignite</a> project.  Archived: November 2021</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/incquery.tgz">Incquery</a> project.  Archived: February 2016</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/imm.tgz">IMM</a> project.  Archived: January 2015</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/ide4edu.tgz">IDE4EDU</a> project.  Archived: January 2014</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/imp.tgz">Imp</a> project.  Archived: January 2014</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/java-ee-config.tgz">Java-ee-config</a> project.  Archived: July 2018</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/jcrm.tgz" alt="JCRM archive" >JCRM</a> project. Archived: July 2013.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/jemo.tgz">Jemo</a> project.  Archived: October 2023</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/jet.tgz" alt="JET archive" >JET</a> project. Archived: May 2020.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/js4emf.tgz" alt="Js4emf archive" >Js4emf</a> project. Archived: January 2015.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/jubula.tgz">Jubula</a> project.  Archived: October 2023</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/kiso-project.tar.gz">Kiso</a> project.  Archived: July 2021</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/koi-project.tar.gz">Koi</a> project.  Archived: April 2006</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/koneki.tgz">Koneki</a> project.  Archived: September 2015</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/kepler.tgz">Kepler</a> project.  Archived: July 2008</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/krikkit.tgz">Krikkit</a> project.  Archived: October 2017</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/laszlo-project.tar.gz">Laszlo</a> project.  Archived: December 2006</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/lepido-project.tar.gz">Lepido</a> project.  Archived: June 2006</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/libra.tar.gz">Libra</a> project.  Archived: February 2022</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/mangrove.tgz">Mangrove</a> project.  Archived: October 2023</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/maynstall.tgz">Maynstall</a> project.  Archived: January 2011</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/mddi-archive.tar.gz" alt="MDDi Archive" >MDDi</a> project. Archived: August 2008.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/mihini.tgz">Mihini</a> project.  Archived: September 2015</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/mint.tgz" alt="Mint archive" >Mint</a> project. Archived: November 2012.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/modeling.mdt.eodm.tgz" alt="MDT.EODM Archive" >MDT EODM</a> project. Archived: October 2008.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/modeling.pmf.tgz" alt="modeling PMF Archive" >Modeling PMF</a> project. Archived: September 2019.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/mofscript.tgz" alt="Mofscript archive" >Mofscript</a> project. Archived: November 2012.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/mst.tgz" alt="MST archive" >MDT MST</a> project. Archived: November 2012.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/mtf.tgz" alt="MTF archive" >MTF</a> project. Archived: November 2012.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/mtj.tgz" alt="MTJ archive" >MTJ</a> project. Archived: October 2023.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/mxf.tgz" alt="MXF archive" >MXF</a> project. Archived: November 2012.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/nab.tgz" alt="DSDP Nab Archive" >DSDP Nab</a> project. Archived: October 2010.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/emf4net.tgz" alt="EMF4Net archive" >EMF4Net</a> project. Archived: January 2015.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/net4j.tgz" alt="Net4J archive" >Net4J</a> project. Archived: June 2010.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/ohf.tgz">OHF</a> project.  Archived: January 2012</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/ofmp.tgz">OFMP</a> project.  Archived: January 2012</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/ogee.tgz">OGEE</a> project.  Archived: October 2023</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/omelet-project.tar.gz">OMELET</a> project.  Archived: August 2005</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/openk-platform.tgz">Openk-platform</a> project.  Archived: November 2021</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/orion.tgz">Orion</a> project.  Archived: October 2023</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/ormf.tgz">Ormf</a> project.  Archived: January 2011</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/package-drone.tgz">Package-drone</a> project.  Archived: March 2021</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/papyrus-xtuml.tgz">Papyrus-xtuml</a> project.  Archived: September 2019</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/pave.tgz">Pave</a> project.  Archived: December 2012</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/phizog.tgz">Phizog</a> project.  Archived: February 2022 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/phoenix.tgz">Phoenix</a> project.  Archived: February 2013 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/picasso.tgz">Picasso</a> project.  Archived: May 2019 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/pmf.tgz" alt="PMF archive" >PMF</a> project. Archived: January 2013.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/pollinate-project.tar.gz">Polinate</a> project.  Archived: December 2005</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/ponte.tgz">Ponte</a> project.  Archived: March 2021</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/query2.tgz" alt="Query2 archive" >EMF Query2</a> project. Archived: May 2013.</p>
-        <p><a href="http://archive.locationtech.org/archived_projects/raster.tgz">Raster</a> project.  Archived: January 2018</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/rat.tgz">Rat</a> project.  Archived: May 2012</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/recommenders.tgz">Recommenders</a> project.  Archived: July 2019</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/recommenders.incubator.tgz">Recommenders incubator</a> project.  Archived: October 2019 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/remus.tgz">Remus</a> project.  Archived: May 2020</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/risev2g.tgz">Risev2g</a> project.  Archived: January 2019</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/rtp.tgz">Packaging RTP</a> project.  Archived: March 2021</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/rtsc.tgz">Packaging RTSC/a> project.  Archived: October 2023</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/sapphire.tgz" alt="Sapphire archive" >Sapphire</a> project. Archived: November 2021.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/sbvr.tgz" alt="SBVR archive" >SBVR</a> project. Archived: July 2013.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/scada.tgz" alt="SCADA archive" >SCADA</a> project. Archived: March 2021.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/sdo.tgz" alt="EMFT SDO archive" >SDO</a> project. Archived: July 2013.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/servus.tgz" alt="Servus archive" >Servus</a> project. Archived: November 2012.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/search.tgz" alt="EMFT Search archive" >Search</a> project. Archived: July 2013.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/secoblocks.tgz" alt="Secoblocks" >Secoblocks</a> project. Archived: November 2022.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/skalli.tgz" alt="Skalli archive" >Skalli</a> project. Archived: October 2022.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/skills.tgz" alt="Skills archive" >Skills</a> project. Archived: October 2023.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/sketch.tgz" alt="Sketch archive" >Sketch</a> project. Archived: January 2014.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/soc.tgz">SOC</a> project.  Archived: January 2011</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/spaces.tgz">Spaces</a> project.  Archived: January 2011</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/scalamodules.tgz">Scalamodules</a> project.  Archived: July 2010</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/smarthome.tgz">Smarthome</a> project.  Archived: May 2020</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/smila.tgz">SMILA</a> project.  Archived: July 2022</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/stellation-project.tar.gz">Stellation</a> project.  Archived: June 2005 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/stardust.tgz">Stardust</a> project.  Archived: November 2017 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/stp.tgz">STP</a> project.  Archived: September 2012 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/swordfish.tgz">Swordfish</a> project.  Archived: January 2014 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/systemfocus.tgz">Systemfocus</a> project.  Archived: December 2021 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/tangleid.tgz" alt="tangleid archive" >Tangle ID</a> project. Archived: February 2022.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/tanglemktplaces.tgz" alt="tanglemktplaces archive" >Tangle Marketplaces</a> project. Archived: February 2022.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/texo.tgz">EMFT Texo</a> project.  Archived: September 2023 </p>        
-        <p><a href="http://archive.eclipse.org/archived_projects/tcs.tgz" alt="TCS archive" >TCS</a> project. Archived: November 2012.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/temporality.tgz" alt="Temporality archive" >Temporality</a> project. Archived: November 2012.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/thym.tgz" alt="Thym archive" >Thym</a> project. Archived: June 2022.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/tigerstripe.tgz">Tigerstripe</a> project. Archived: October 2023.</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/tmw.tgz">TMW</a> project.  Archived: March 2012 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/tptp.monitoring.tgz">TPTP Monitoring</a> project.  Archived: June 2010 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/tptp.tgz">TPTP</a> project.  Archived: May 2016  </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/triquetrum.tgz">Triquetrum</a> project.  Archived: Oct 2021  </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/umlgen.tgz">UMLGen</a> project.  Archived: March 2021 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/umlx.tgz">Umlx</a> project.  Archived: December 2012 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/ufacekit.tgz">UFacekit</a> project.  Archived: March 2014 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/unide.tgz">Unide</a> project.  Archived: October 2023</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/upr.tgz">UPR</a> project.  Archived: October 2023</p>
-        <p><a href="http://archive.eclipse.org/archived_projects/ve.tgz">Visual editor</a> project.  Archived: June 2011 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/vtp.tgz">Voice Tools</a> project.  Archived: May 2016 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/whiskers.tgz">Whiskers</a> project.  Archived: January 2019 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/woolsey.tgz">Woolsey</a> project.  Archived: December 2012 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/wtp.datatools.tgz">WTP Datatools</a> project.  Archived: February 2013 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/wtp.incubator.tgz">WTP Incubator</a> project.  Archived: November 2021 </p>
-        <p><a href="http://archive.eclipse.org/archived_projects/xtend.tgz">Xtend</a> project.  Archived: June 2013 </p>
+        <style> td { padding: 3px; } </style>
+        <table>
+        <tr><td><b>Project</b></td><td><b>Size</b></td><td><b>Archived</b></td><td><b>URI</b></td></tr>
+        <tr><td>3p project</td><td>724K</td><td>November 2021</td><td>https://archive.eclipse.org/archived_projects/3p.tgz</td></tr>
+        <tr><td>ALF project</td><td>152M</td><td>January 2009</td><td>https://archive.eclipse.org/archived_projects/alf.tgz</td></tr>
+        <tr><td>Albireo project</td><td>1.5M</td><td>January 2011</td><td>https://archive.eclipse.org/archived_projects/albireo.tgz</td></tr>
+        <tr><td>AMP project</td><td>101M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/amp.tgz</td></tr>
+        <tr><td>AM3 project</td><td>7.4M</td><td>November 2012</td><td>https://archive.eclipse.org/archived_projects/am3.tgz</td></tr>
+        <tr><td>Andmore project</td><td>81M</td><td>October 2024</td><td>https://archive.eclipse.org/archived_projects/andmore.tgz</td></tr>
+        <tr><td>Antenna project</td><td>4.3M</td><td>February 2021</td><td>https://archive.eclipse.org/archived_projects/antenna.tgz</td></tr>
+        <tr><td>Aperi project</td><td>257M</td><td>March 2009</td><td>https://archive.eclipse.org/archived_projects/aperi.tgz</td></tr>
+        <tr><td>Apricot project</td><td>3.5M</td><td>August 2019</td><td>https://archive.eclipse.org/archived_projects/apricot.tgz</td></tr>
+        <tr><td>Apogee project</td><td>573K</td><td>January 2011</td><td>https://archive.eclipse.org/archived_projects/apogee.tgz</td></tr>
+        <tr><td>Apogy project</td><td>102M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/apogy.tgz</td></tr>
+        <tr><td>ATF project</td><td>50M</td><td>May 2020</td><td>https://archive.eclipse.org/archived_projects/atf.tgz</td></tr>
+        <tr><td>Athena project</td><td>227M</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/athena.tgz</td></tr>
+        <tr><td>AMW project</td><td>9.4M</td><td>March 2015</td><td>https://archive.eclipse.org/archived_projects/amw.tgz</td></tr>
+        <tr><td>Avsys project</td><td>27K</td><td>February 2022</td><td>https://archive.eclipse.org/archived_projects/avsys.tgz</td></tr>
+        <tr><td>B3 project</td><td>49M</td><td>March 2021.</td><td>https://archive.eclipse.org/archived_projects/b3.tgz</td></tr>
+        <tr><td>BFB project</td><td>26K</td><td>November 2023.</td><td>https://archive.eclipse.org/archived_projects/bfb.tgz</td></tr>
+        <tr><td>BridgeIoT project</td><td>642K</td><td>February 2022.</td><td>https://archive.eclipse.org/archived_projects/bridgeiot.tgz</td></tr>
+        <tr><td>DSDP Blinki project</td><td>14k</td><td>October 2010.</td><td>https://archive.eclipse.org/archived_projects/blinki.tgz</td></tr>
+        <tr><td>BPEL project</td><td>60M</td><td>October 2022</td><td>https://archive.eclipse.org/archived_projects/bpel.tgz</td></tr>
+        <tr><td>BPMN project</td><td>4.3M</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/bpmn.tgz</td></tr>
+        <tr><td>BPMN2 project</td><td>139M</td><td>January 2025</td><td>https://archive.eclipse.org/archived_projects/bpmn2.tgz</td></tr>
+        <tr><td>Buckminster project</td><td>37M</td><td>February 2019</td><td>https://archive.eclipse.org/archived_projects/buckminster.tgz</td></tr>
+        <tr><td>CAMF project</td><td>2.3M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/camf.tgz</td></tr>
+        <tr><td>CDTK project</td><td>218K</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/cdtk.tgz</td></tr>
+        <tr><td>Ceylon project</td><td>460M</td><td>April 2023</td><td>https://archive.eclipse.org/archived_projects/ceylon.tgz</td></tr>
+        <tr><td>Codewind project</td><td>415M</td><td>November 2022</td><td>https://archive.eclipse.org/archived_projects/codewind.tgz</td></tr>
+        <tr><td>Corona project</td><td>15M</td><td>April 2010</td><td>https://archive.eclipse.org/archived_projects/corona.tgz</td></tr>
+        <tr><td>Cosmos project</td><td>455M</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/cosmos.tgz</td></tr>
+        <tr><td>Cobol project</td><td>132M</td><td>February 2010</td><td>https://archive.eclipse.org/archived_projects/cobol.tgz</td></tr>
+        <tr><td>Concierge project</td><td>63M</td><td>November 2022</td><td>https://archive.eclipse.org/archived_projects/concierge.tgz</td></tr>
+        <tr><td>Damos project</td><td>7M</td><td>February 2019</td><td>https://archive.eclipse.org/archived_projects/damos.tgz</td></tr>
+        <tr><td>DataEggs project</td><td>166M</td><td>January 2023</td><td>https://archive.eclipse.org/archived_projects/dataeggs.tgz</td></tr>
+        <tr><td>Dawnsci project</td><td>208M</td><td>February 2025</td><td>https://archive.eclipse.org/archived_projects/dawnsci.tgz</td></tr>
+        <tr><td>DSDP DD project</td><td>8.2M</td><td>October 2010.</td><td>https://archive.eclipse.org/archived_projects/dd.tgz</td></tr>
+        <tr><td>DSDP project</td><td>39M</td><td>September 2011.</td><td>https://archive.eclipse.org/archived_projects/dsdp.tgz</td></tr>
+        <tr><td>Doc2Model project</td><td>152K</td><td>January 2015.</td><td>https://archive.eclipse.org/archived_projects/doc2model.tgz</td></tr>
+	<tr><td>Duttile project</td><td>74M</td><td>July 2024.</td><td>https://archive.eclipse.org/archived_projects/duttile.tgz</td></tr>
+        <tr><td>EBAM project</td><td>14M</td><td>February 2020</td><td>https://archive.eclipse.org/archived_projects/ebam.tgz</td></tr>
+        <tr><td>EBPM project</td><td>14M</td><td>March 2018</td><td>https://archive.eclipse.org/archived_projects/ebpm.tgz</td></tr>
+        <tr><td>EDT project</td><td>100M</td><td>January 2013</td><td>https://archive.eclipse.org/archived_projects/edt.tgz</td></tr>
+        <tr><td>E4 project</td><td>73M</td><td>January 2024</td><td>https://archive.eclipse.org/archived_projects/e4.tgz</td></tr>
+        <tr><td>Modeling EATop project</td><td>18M</td><td>March 2021</td><td>https://archive.eclipse.org/archived_projects/eatop.tgz</td></tr>
+        <tr><td>RT EBR project</td><td>8.4M</td><td>February 2023</td><td>https://archive.eclipse.org/archived_projects/ebr.tgz</td></tr>
+        <tr><td>IOT Edje project</td><td>14K</td><td>November 2018</td><td>https://archive.eclipse.org/archived_projects/edje.tgz</td></tr>
+        <tr><td>ESL project</td><td>77M</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/esl.tgz</td></tr>
+        <tr><td>EMFindex project</td><td>555K</td><td>July 2012</td><td>https://archive.eclipse.org/archived_projects/emfindex.tgz</td></tr>
+        <tr><td>Polarsys EPLMP project</td><td>4.5M</td><td>December 2021</td><td>https://archive.eclipse.org/archived_projects/eplmp.tgz</td></tr>
+        <tr><td>ERCP project</td><td>192M</td><td>December 2012</td><td>https://archive.eclipse.org/archived_projects/ercp.tgz</td></tr>
+        <tr><td>Examples project</td><td>68M</td><td>January 2014</td><td>https://archive.eclipse.org/archived_projects/examples.tgz</td></tr>
+        <tr><td>EMF Facet project</td><td>64M</td><td>May 2020</td><td>https://archive.eclipse.org/archived_projects/emf-facet.tgz</td></tr>
+        <tr><td>EPF project</td><td>472M</td><td>February 2023</td><td>https://archive.eclipse.org/archived_projects/epf.tgz</td></tr>
+        <tr><td>Featuremodel project</td><td>4.1M</td><td>March 2015</td><td>https://archive.eclipse.org/archived_projects/featuremodel.tgz</td></tr>
+        <tr><td>Flux project</td><td>13M</td><td>February 2019</td><td>https://archive.eclipse.org/archived_projects/flux.tgz</td></tr>
+        <tr><td>FMC project</td><td>11M</td><td>June 2022</td><td>https://archive.eclipse.org/archived_projects/fmc.tgz</td></tr>
+        <tr><td>Fproj project</td><td>931K</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/fproj.tgz</td></tr>
+        <tr><td>Ganomatic project</td><td>23K</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/ganomatic.tgz</td></tr>
+        <tr><td>Gems project</td><td>31M</td><td>January 2015</td><td>https://archive.eclipse.org/archived_projects/gems.tgz</td></tr>
+        <tr><td>GeoBench project</td><td>120B</td><td>March 2021</td><td>https://archive.eclipse.org/archived_projects/geobench.tgz</td></tr>
+        <tr><td>GeoPeril project</td><td>117M</td><td>November 2023</td><td>https://archive.eclipse.org/archived_projects/geoperil.tgz</td></tr>
+        <tr><td>Glassfish-tools project</td><td>26M</td><td>November 2021</td><td>https://archive.eclipse.org/archived_projects/glassfish-tools.tgz</td></tr>
+        <tr><td>Glimmer project</td><td>1.5M</td><td>January 2011</td><td>https://archive.eclipse.org/archived_projects/glimmer.tgz</td></tr>
+        <tr><td>g-Eclipse project</td><td>36M</td><td>January 2014</td><td>https://archive.eclipse.org/archived_projects/g-eclipse.tgz</td></tr>
+        <tr><td>GEF 3D project</td><td>2.7M</td><td>March 2021</td><td>https://archive.eclipse.org/archived_projects/gef3d.tgz</td></tr>
+        <tr><td>GMF Tooling project</td><td>85M</td><td>September 2023</td><td>https://archive.eclipse.org/archived_projects/gmf-tooling.tgz</td></tr>
+        <tr><td>Golo project</td><td>15M</td><td>September 2022</td><td>https://archive.eclipse.org/archived_projects/golo.tgz</td></tr>
+        <tr><td>gyrex project</td><td>146M</td><td>March 2018</td><td>https://archive.eclipse.org/archived_projects/gyrex.tgz</td></tr>
+        <tr><td>Hibachi project</td><td>31M</td><td>January 2011</td><td>https://archive.eclipse.org/archived_projects/hibachi.tgz</td></tr>
+        <tr><td>Hip project</td><td>9M</td><td>August 2019</td><td>https://archive.eclipse.org/archived_projects/hip.tgz</td></tr>
+        <tr><td>Higgins project</td><td>712M</td><td>April 2017</td><td>https://archive.eclipse.org/archived_projects/higgins.tgz</td></tr>
+        <tr><td>Hudson project</td><td>61M</td><td>February 2021</td><td>https://archive.eclipse.org/archived_projects/hudson.tgz</td></tr>
+        <tr><td>Iam project</td><td>40M</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/iam.tgz</td></tr>
+        <tr><td>Ignite project</td><td>24K</td><td>November 2021</td><td>https://archive.eclipse.org/archived_projects/ignite.tgz</td></tr>
+        <tr><td>Incquery project</td><td>61M</td><td>February 2016</td><td>https://archive.eclipse.org/archived_projects/incquery.tgz</td></tr>
+        <tr><td>IMM project</td><td>636B</td><td>January 2015</td><td>https://archive.eclipse.org/archived_projects/imm.tgz</td></tr>
+        <tr><td>IDE4EDU project</td><td>1.6M</td><td>January 2014</td><td>https://archive.eclipse.org/archived_projects/ide4edu.tgz</td></tr>
+        <tr><td>Imp project</td><td>53M</td><td>January 2014</td><td>https://archive.eclipse.org/archived_projects/imp.tgz</td></tr>
+        <tr><td>Java-ee-config project</td><td>1.6M</td><td>July 2018</td><td>https://archive.eclipse.org/archived_projects/java-ee-config.tgz</td></tr>
+        <tr><td>JCRM project</td><td>938K</td><td>July 2013.</td><td>https://archive.eclipse.org/archived_projects/jcrm.tgz</td></tr>
+        <tr><td>Jemo project</td><td>26M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/jemo.tgz</td></tr>
+        <tr><td>JET project</td><td>3.4M</td><td>May 2020.</td><td>https://archive.eclipse.org/archived_projects/jet.tgz</td></tr>
+        <tr><td>Js4emf project</td><td>5.7M</td><td>January 2015.</td><td>https://archive.eclipse.org/archived_projects/js4emf.tgz</td></tr>
+        <tr><td>Jubula project</td><td>146M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/jubula.tgz</td></tr>
+        <tr><td>Koi project</td><td></td><td>April 2006</td><td>https://archive.eclipse.org/archived_projects/koi-project.tar.gz</td></tr>
+        <tr><td>Kiso project</td><td>5.3M</td><td>July 2021</td><td>https://archive.eclipse.org/archived_projects/kiso.tar.gz</td></tr>
+        <tr><td>Koneki project</td><td>42M</td><td>September 2015</td><td>https://archive.eclipse.org/archived_projects/koneki.tgz</td></tr>
+        <tr><td>Kepler project</td><td>2K</td><td>July 2008</td><td>https://archive.eclipse.org/archived_projects/kepler.tgz</td></tr>
+        <tr><td>Krikkit project</td><td>4.4M</td><td>October 2017</td><td>https://archive.eclipse.org/archived_projects/krikkit.tgz</td></tr>
+        <tr><td>Laszlo project</td><td>27M</td><td>December 2006</td><td>https://archive.eclipse.org/archived_projects/laszlo-project.tar.gz</td></tr>
+        <tr><td>Lepido project</td><td>8.9M</td><td>June 2006</td><td>https://archive.eclipse.org/archived_projects/lepido-project.tar.gz</td></tr>
+        <tr><td>Libra project</td><td>87M</td><td>February 2022</td><td>https://archive.eclipse.org/archived_projects/libra.tar.gz</td></tr>
+        <tr><td>M2E project</td><td>3.2M</td><td>August 2022</td><td>https://archive.eclipse.org/archived_projects/m2e-wtp.tgz</td></tr>
+        <tr><td>Mangrove project</td><td>1.3M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/mangrove.tgz</td></tr>
+        <tr><td>Maynstall project</td><td>2.8M</td><td>January 2011</td><td>https://archive.eclipse.org/archived_projects/maynstall.tgz</td></tr>
+        <tr><td>MDDi project</td><td>67M</td><td>August 2008.</td><td>https://archive.eclipse.org/archived_projects/mddi.tgz</td></tr>
+        <tr><td>Mihini project</td><td>31M</td><td>September 2015</td><td>https://archive.eclipse.org/archived_projects/mihini.tgz</td></tr>
+        <tr><td>Mint project</td><td>40M</td><td>November 2012.</td><td>https://archive.eclipse.org/archived_projects/mint.tgz</td></tr>
+        <tr><td>MDT EODM project</td><td>13M</td><td>October 2008.</td><td>https://archive.eclipse.org/archived_projects/modeling.mdt.eodm.tgz</td></tr>
+        <tr><td>Modeling PMF project</td><td>39M</td><td>September 2019.</td><td>https://archive.eclipse.org/archived_projects/modeling.pmf.tgz</td></tr>
+        <tr><td>Mofscript project</td><td>50M</td><td>November 2012.</td><td>https://archive.eclipse.org/archived_projects/mofscript.tgz</td></tr>
+        <tr><td>MDT MST project</td><td>8.8K</td><td>November 2012.</td><td>https://archive.eclipse.org/archived_projects/mst.tgz</td></tr>
+        <tr><td>MTF project</td><td>2.7M</td><td>November 2012.</td><td>https://archive.eclipse.org/archived_projects/mtf.tgz</td></tr>
+        <tr><td>MTJ project</td><td>19M</td><td>October 2023.</td><td>https://archive.eclipse.org/archived_projects/mtj.tgz</td></tr>
+        <tr><td>MXF project</td><td>9.9K</td><td>November 2012.</td><td>https://archive.eclipse.org/archived_projects/mxf.tgz</td></tr>
+        <tr><td>DSDP Nab project</td><td>62M</td><td>October 2010.</td><td>https://archive.eclipse.org/archived_projects/nab.tgz</td></tr>
+        <tr><td>EMF4Net project</td><td>4.7M</td><td>January 2015.</td><td>https://archive.eclipse.org/archived_projects/emf4net.tgz</td></tr>
+        <tr><td>Net4J project</td><td>94M</td><td>June 2010.</td><td>https://archive.eclipse.org/archived_projects/net4j.tgz</td></tr>
+        <tr><td>OHF project</td><td>498M</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/ohf.tgz</td></tr>
+        <tr><td>OFMP project</td><td>26M</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/ofmp.tgz</td></tr>
+        <tr><td>OGEE project</td><td>39M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/ogee.tgz</td></tr>
+        <tr><td>OMELET project</td><td>3M</td><td>August 2005</td><td>https://archive.eclipse.org/archived_projects/omelet-project.tar.gz</td></tr>
+        <tr><td>Openk-platform project</td><td>40M</td><td>November 2021</td><td>https://archive.eclipse.org/archived_projects/openk-platform.tgz</td></tr>
+        <tr><td>Orion project</td><td>135M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/orion.tgz</td></tr>
+        <tr><td>Ormf project</td><td>435M</td><td>January 2011</td><td>https://archive.eclipse.org/archived_projects/ormf.tgz</td></tr>
+        <tr><td>Package-drone project</td><td>2.5G</td><td>March 2021</td><td>https://archive.eclipse.org/archived_projects/package-drone.tgz</td></tr>
+        <tr><td>Papyrus-RT project</td><td>63M</td><td>January 2025</td><td>https://archive.eclipse.org/archived_projects/papyrus-rt.tgz</td></tr>
+        <tr><td>Papyrus-xtuml project</td><td>25K</td><td>September 2019</td><td>https://archive.eclipse.org/archived_projects/papyrus-xtuml.tgz</td></tr>
+        <tr><td>Pave project</td><td>1.7M</td><td>December 2012</td><td>https://archive.eclipse.org/archived_projects/pave.tgz</td></tr>
+        <tr><td>Phizog project</td><td>27K</td><td>February 2022 </td><td>https://archive.eclipse.org/archived_projects/phizog.tgz</td></tr>
+        <tr><td>Phoenix project</td><td>51M</td><td>February 2013 </td><td>https://archive.eclipse.org/archived_projects/phoenix.tgz</td></tr>
+        <tr><td>Picasso project</td><td>25K</td><td>May 2019 </td><td>https://archive.eclipse.org/archived_projects/picasso.tgz</td></tr>
+        <tr><td>PMF project</td><td>6.3M</td><td>January 2013.</td><td>https://archive.eclipse.org/archived_projects/pmf.tgz</td></tr>
+        <tr><td>Polinate project</td><td>155M</td><td>December 2005</td><td>https://archive.eclipse.org/archived_projects/pollinate-project.tar.gz</td></tr>
+        <tr><td>Ponte project</td><td>400K</td><td>March 2021</td><td>https://archive.eclipse.org/archived_projects/ponte.tgz</td></tr>
+        <tr><td>Pop project</td><td>25M</td><td>February 2018</td><td>https://archive.eclipse.org/archived_projects/pop.tgz</td></tr>
+        <tr><td>EMF Query2 project</td><td>40M</td><td>May 2013.</td><td>https://archive.eclipse.org/archived_projects/query2.tgz</td></tr>
+        <tr><td>Rat project</td><td>211K</td><td>May 2012</td><td>https://archive.eclipse.org/archived_projects/rat.tgz</td></tr>
+        <tr><td>Recommenders project</td><td>132M</td><td>July 2019</td><td>https://archive.eclipse.org/archived_projects/recommenders.tgz</td></tr>
+        <tr><td>Recommenders incubator project</td><td>14M</td><td>October 2019 </td><td>https://archive.eclipse.org/archived_projects/recommenders.incubator.tgz</td></tr>
+        <tr><td>Reddeer project</td><td>12M</td><td>December 2024 </td><td>https://archive.eclipse.org/archived_projects/reddeer.tgz</td></tr>
+        <tr><td>Refactor project</td><td>92M</td><td>January 2025 </td><td>https://archive.eclipse.org/archived_projects/refactor.tgz</td></tr>
+        <tr><td>Riena project</td><td>258M</td><td>October 2024</td><td>https://archive.eclipse.org/archived_projects/riena.tgz</td></tr>
+        <tr><td>Remus project</td><td>9.3M</td><td>May 2020</td><td>https://archive.eclipse.org/archived_projects/remus.tgz</td></tr>
+        <tr><td>Risev2g project</td><td>14K</td><td>January 2019</td><td>https://archive.eclipse.org/archived_projects/risev2g.tgz</td></tr>
+        <tr><td>Packaging RTP project</td><td>2M</td><td>March 2021</td><td>https://archive.eclipse.org/archived_projects/rtp.tgz</td></tr>
+        <tr><td>Packaging RTSC project</td><td>27M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/rtsc.tgz</td></tr>
+        <tr><td>Sapphire project</td><td>67M</td><td>November 2021.</td><td>https://archive.eclipse.org/archived_projects/sapphire.tgz</td></tr>
+        <tr><td>SBVR project</td><td>633K</td><td>July 2013.</td><td>https://archive.eclipse.org/archived_projects/sbvr.tgz</td></tr>
+        <tr><td>SCADA project</td><td>63M</td><td>March 2021.</td><td>https://archive.eclipse.org/archived_projects/eclipsescada.tgz</td></tr>
+        <tr><td>SDO project</td><td>1.5M</td><td>July 2013.</td><td>https://archive.eclipse.org/archived_projects/sdo.tgz</td></tr>
+	<tr><td>Servus project</td><td>533K</td><td>November 2012.</td><td>https://archive.eclipse.org/archived_projects/servus.tgz</td></tr>
+	<tr><td>Seqouyah project</td><td>72M</td><td>March 2017.</td><td>https://archive.eclipse.org/archived_projects/sequoyah.tgz</td></tr>
+        <tr><td>Search project</td><td>21M</td><td>July 2013.</td><td>https://archive.eclipse.org/archived_projects/search.tgz</td></tr>
+        <tr><td>Secoblocks project</td><td>16K</td><td>November 2022.</td><td>https://archive.eclipse.org/archived_projects/secoblocks.tgz</td></tr>
+        <tr><td>Skalli project</td><td>6.1M</td><td>October 2022.</td><td>https://archive.eclipse.org/archived_projects/skalli.tgz</td></tr>
+        <tr><td>Skills project</td><td>3.8M</td><td>October 2023.</td><td>https://archive.eclipse.org/archived_projects/skills.tgz</td></tr>
+        <tr><td>Sketch project</td><td>1.5M</td><td>January 2014.</td><td>https://archive.eclipse.org/archived_projects/sketch.tgz</td></tr>
+        <tr><td>SOC project</td><td>48K</td><td>January 2011</td><td>https://archive.eclipse.org/archived_projects/soc.tgz</td></tr>
+        <tr><td>Spaces project</td><td>23M</td><td>January 2011</td><td>https://archive.eclipse.org/archived_projects/spaces.tgz</td></tr>
+        <tr><td>Scalamodules project</td><td>716K</td><td>July 2010</td><td>https://archive.eclipse.org/archived_projects/scalamodules.tgz</td></tr>
+        <tr><td>Smarthome project</td><td>25M</td><td>May 2020</td><td>https://archive.eclipse.org/archived_projects/smarthome.tgz</td></tr>
+        <tr><td>Smartmdsd project</td><td>4.1M</td><td>February 2025</td><td>https://archive.eclipse.org/archived_projects/smartmdsd.tgz</td></tr>
+        <tr><td>SMILA project</td><td>239M</td><td>July 2022</td><td>https://archive.eclipse.org/archived_projects/smila.tgz</td></tr>
+        <tr><td>Stellation project</td><td>52M</td><td>June 2005 </td><td>https://archive.eclipse.org/archived_projects/stellation.tgz</td></tr>
+        <tr><td>Stardust project</td><td>1.5G</td><td>November 2017 </td><td>https://archive.eclipse.org/archived_projects/stardust.tgz</td></tr>
+        <tr><td>Stem project</td><td>1.2G</td><td>July 2024 </td><td>https://archive.eclipse.org/archived_projects/stem.tgz</td></tr>
+        <tr><td>STP project</td><td>237M</td><td>September 2012 </td><td>https://archive.eclipse.org/archived_projects/stp.tgz</td></tr>
+        <tr><td>Swordfish project</td><td>186M</td><td>January 2014 </td><td>https://archive.eclipse.org/archived_projects/swordfish.tgz</td></tr>
+        <tr><td>Systemfocus project</td><td>1.8M</td><td>December 2021 </td><td>https://archive.eclipse.org/archived_projects/systemfocus.tgz</td></tr>
+        <tr><td>Tangle ID project</td><td>16K</td><td>February 2022.</td><td>https://archive.eclipse.org/archived_projects/tangleid.tgz</td></tr>
+        <tr><td>Tangle Marketplaces project</td><td>16K</td><td>February 2022.</td><td>https://archive.eclipse.org/archived_projects/tanglemktplaces.tgz</td></tr>
+        <tr><td>EMFT Texo project</td><td>163M</td><td>September 2023 </td><td>https://archive.eclipse.org/archived_projects/texo.tgz</td></tr>
+        <tr><td>TCS project</td><td>6.7K</td><td>November 2012.</td><td>https://archive.eclipse.org/archived_projects/tcs.tgz</td></tr>
+        <tr><td>Temporality project</td><td>2.9M</td><td>November 2012.</td><td>https://archive.eclipse.org/archived_projects/temporality.tgz</td></tr>
+        <tr><td>Thym project</td><td>129K</td><td>June 2022.</td><td>https://archive.eclipse.org/archived_projects/thym.tgz</td></tr>
+        <tr><td>Tigerstripe project</td><td>82M</td><td>October 2023.</td><td>https://archive.eclipse.org/archived_projects/tigerstripe.tgz</td></tr>
+        <tr><td>TMW project</td><td>996K</td><td>March 2012 </td><td>https://archive.eclipse.org/archived_projects/tmw.tgz</td></tr>
+        <tr><td>TPTP Monitoring project</td><td>63M</td><td>June 2010 </td><td>https://archive.eclipse.org/archived_projects/tptp.monitoring.tgz</td></tr>
+        <tr><td>TPTP project</td><td>890M</td><td>May 2016  </td><td>https://archive.eclipse.org/archived_projects/tptp.tgz</td></tr>
+        <tr><td>Triquetrum project</td><td>6.5M</td><td>Oct 2021  </td><td>https://archive.eclipse.org/archived_projects/triquetrum.tgz</td></tr>
+        <tr><td>UMLGen project</td><td>11M</td><td>March 2021 </td><td>https://archive.eclipse.org/archived_projects/umlgen.tgz</td></tr>
+        <tr><td>Umlx project</td><td>27M</td><td>December 2012 </td><td>https://archive.eclipse.org/archived_projects/umlx.tgz</td></tr>
+        <tr><td>UFacekit project</td><td>35M</td><td>March 2014 </td><td>https://archive.eclipse.org/archived_projects/ufacekit.tgz</td></tr>
+        <tr><td>Unide project</td><td>2.8M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/unide.tgz</td></tr>
+        <tr><td>UPR project</td><td>4.7M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/upr.tgz</td></tr>
+        <tr><td>Visual editor project</td><td>418M</td><td>June 2011 </td><td>https://archive.eclipse.org/archived_projects/ve.tgz</td></tr>
+        <tr><td>Mylyn VEX project</td><td>42M</td><td>February 2024 </td><td>https://archive.eclipse.org/archived_projects/vex.tgz</td></tr>
+        <tr><td>VE project</td><td>74M</td><td>June 2011 </td><td>https://archive.eclipse.org/archived_projects/ve.tgz</td></tr>
+        <tr><td>VJet project</td><td>57M</td><td>February 2013 </td><td>https://archive.eclipse.org/archived_projects/vjet.tgz</td></tr>
+        <tr><td>Voice Tools project</td><td>40M</td><td>May 2016 </td><td>https://archive.eclipse.org/archived_projects/vtp.tgz</td></tr>
+        <tr><td>Whiskers project</td><td>91K</td><td>January 2019 </td><td>https://archive.eclipse.org/archived_projects/whiskers.tgz</td></tr>
+        <tr><td>Woolsey project</td><td>1.1M</td><td>December 2012 </td><td>https://archive.eclipse.org/archived_projects/woolsey.tgz</td></tr>
+        <tr><td>WTP Datatools project</td><td>7.1M</td><td>February 2013 </td><td>https://archive.eclipse.org/archived_projects/wtp.datatools.tgz</td></tr>
+        <tr><td>WTP Incubator project</td><td>21M</td><td>November 2021 </td><td>https://archive.eclipse.org/archived_projects/webtools.incubator.tgz</td></tr>
+        <tr><td>Xtend project</td><td>86M</td><td>June 2013 </td><td>https://archive.eclipse.org/archived_projects/xtend.tgz</td></tr>
+        </table>
 	  </div>
 	</div>
 
@@ -1024,68 +1051,52 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             class="main-sidebar-heading link-unstyled"
                           href=""
                       >
-            Eclipse Projects          </a>
-        </li>
-                              <li class="main-sidebar-item main-sidebar-item-indented">
-          <a class="link-unstyled" href="/projects/dev_process">
-            Development Process          </a>
-        </li>
-                              <li class="main-sidebar-item main-sidebar-item-indented">
-          <a class="link-unstyled" href="/projects/handbook">
-            Project Handbook          </a>
+            Committers          </a>
         </li>
                               <li class="main-sidebar-item main-sidebar-item-indented">
           <a class="link-unstyled" href="/projects/training">
             Committer Training          </a>
         </li>
                               <li class="main-sidebar-item main-sidebar-item-indented">
-          <a class="link-unstyled" href="/projects/calendar">
-            Projects Event Calendar          </a>
+          <a class="link-unstyled" href="/projects/handbook">
+            Project Handbook          </a>
         </li>
                               <li class="main-sidebar-item main-sidebar-item-indented">
           <a class="link-unstyled" href="/projects/calendar#office-hours">
             Office Hours          </a>
-        </li>
-                              <li class="main-sidebar-item main-sidebar-item-indented">
-          <a class="link-unstyled" href="https://projects.eclipse.org">
-            Search Projects          </a>
-        </li>
-                              <li class="main-sidebar-item main-sidebar-item-indented">
-          <a class="link-unstyled" href="/projects/tools/hierarchy.php">
-            All Projects          </a>
-        </li>
-                              <li class="main-sidebar-main-item main-sidebar-item-indented separator">
-          <a 
-            class="main-sidebar-heading link-unstyled"
-                      >
-            Lifecycle          </a>
-        </li>
-                              <li class="main-sidebar-item main-sidebar-item-indented">
-          <a class="link-unstyled" href="/projects/project_activity.php">
-            Activity          </a>
-        </li>
-                              <li class="main-sidebar-item main-sidebar-item-indented">
-          <a class="link-unstyled" href="/projects/tools/proposals.php">
-            Proposals          </a>
-        </li>
-                              <li class="main-sidebar-item main-sidebar-item-indented">
-          <a class="link-unstyled" href="/projects/tools/reviews.php">
-            Reviews          </a>
-        </li>
-                              <li class="main-sidebar-item main-sidebar-item-indented">
-          <a class="link-unstyled" href="/projects/tools/goodstanding-releases.php">
-            Releases          </a>
-        </li>
-                              <li class="main-sidebar-item main-sidebar-item-indented">
-          <a class="link-unstyled" href="/projects/tools/hierarchy.php">
-            Project Hierarchy          </a>
         </li>
                               <li class="main-sidebar-main-item main-sidebar-item-indented separator">
           <a 
             class="main-sidebar-heading link-unstyled"
                           href=""
                       >
-            Eclipse Specifications          </a>
+            Projects          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/projects">
+            Projects Home          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/projects/dev_process">
+            Development Process          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/projects/project_activity.php">
+            Activity          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="https://projects.eclipse.org">
+            Search Projects          </a>
+        </li>
+                              <li class="main-sidebar-main-item main-sidebar-item-indented separator">
+          <a 
+            class="main-sidebar-heading link-unstyled"
+                      >
+            Specifications          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/specifications/">
+            Specifications Home          </a>
         </li>
                               <li class="main-sidebar-item main-sidebar-item-indented">
           <a class="link-unstyled" href="/projects/efsp">
@@ -1102,24 +1113,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               <li class="main-sidebar-main-item main-sidebar-item-indented separator">
           <a 
             class="main-sidebar-heading link-unstyled"
-                          href=""
-                      >
-            Working Groups          </a>
-        </li>
-                              <li class="main-sidebar-item main-sidebar-item-indented">
-          <a class="link-unstyled" href="/org/workinggroups/industry_wg_process.php">
-            Process          </a>
-        </li>
-                              <li class="main-sidebar-item main-sidebar-item-indented">
-          <a class="link-unstyled" href="/org/workinggroups/operations.php">
-            Operations Guide          </a>
-        </li>
-                              <li class="main-sidebar-main-item main-sidebar-item-indented separator">
-          <a 
-            class="main-sidebar-heading link-unstyled"
-                          href=""
                       >
             Legal          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/legal/">
+            Legal Home          </a>
         </li>
                               <li class="main-sidebar-item main-sidebar-item-indented">
           <a class="link-unstyled" href="/org/documents/Eclipse_IP_Policy.pdf">
@@ -1130,24 +1129,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             Contributor Agreement          </a>
         </li>
                               <li class="main-sidebar-item main-sidebar-item-indented">
-          <a class="link-unstyled" href="/contribute/cla">
-            ECA Validation Tool          </a>
-        </li>
-                              <li class="main-sidebar-item main-sidebar-item-indented">
           <a class="link-unstyled" href="/legal/epl-2.0">
             EPL-2.0          </a>
         </li>
-                              <li class="main-sidebar-item main-sidebar-item-indented">
-          <a class="link-unstyled" href="/legal/licenses.php">
-            3rd Party Licenses          </a>
+                              <li class="main-sidebar-main-item main-sidebar-item-indented separator">
+          <a 
+            class="main-sidebar-heading link-unstyled"
+                      >
+            Collaborations          </a>
         </li>
                               <li class="main-sidebar-item main-sidebar-item-indented">
-          <a class="link-unstyled" href="http://www.eclipse.org">
-            Home          </a>
+          <a class="link-unstyled" href="/collaborations">
+            Industry Collaborations Home          </a>
         </li>
                               <li class="main-sidebar-item main-sidebar-item-indented">
-          <a class="link-unstyled" href="http://wiki.eclipse.org">
-            Wiki          </a>
+          <a class="link-unstyled" href="/org/workinggroups/industry_wg_process.php">
+            Working Group Process          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/org/workinggroups/operations.php">
+            Operations Guide          </a>
         </li>
                 </aside>
   </div>
@@ -1167,7 +1168,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div id="footer-legal" class="footer-section col-md-5 col-sm-8">
               <div class="menu-heading">Legal</div>
       <ul class="nav">
-        <ul class="nav"><li><a href="https://www.eclipse.org/legal/privacy.php">Privacy Policy</a></li><li><a href="https://www.eclipse.org/legal/termsofuse.php">Terms of Use</a></li><li><a href="https://www.eclipse.org/legal/copyright.php">Copyright Agent</a></li><li><a href="https://www.eclipse.org/org/documents/Community_Code_of_Conduct.php">Code of Conduct</a></li><li><a href="https://www.eclipse.org/legal/">Legal Resources</a></li></ul>
+        <ul class="nav"><li><a href="https://www.eclipse.org/legal/privacy.php">Privacy Policy</a></li><li><a href="https://www.eclipse.org/legal/termsofuse.php">Terms of Use</a></li><li><a href="https://www.eclipse.org/legal/compliance/">Compliance</a></li><li><a href="https://www.eclipse.org/org/documents/Community_Code_of_Conduct.php">Code of Conduct</a></li><li><a href="https://www.eclipse.org/legal/">Legal Resources</a></li></ul>
         <li>
           <a href="#" class="toolbar-manage-cookies">Manage Cookies</a>
         </li>
@@ -1182,46 +1183,61 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="footer-end-social">
             <p class="footer-end-social-text">Follow Us:</p>
             <ul class="footer-end-social-links list-inline">
-              <a class="link-unstyled" href="https://www.youtube.com/channel/UCej18QqbZDxuYxyERPgs2Fw" title="YouTube Channel">
-              <span class="fa fa-stack">
-              <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
-              <i class="fa fa-youtube-play fa-stack-1x fa-inverse" aria-hidden="true"></i>
-              </span>
-              </a>
-              <a class="link-unstyled" href="https://www.linkedin.com/company/eclipse-foundation/" title="LinkedIn">
-              <span class="fa fa-stack">
-              <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
-              <i class="fa fa-linkedin fa-stack-1x fa-inverse" aria-hidden="true"></i>
-              </span>
-              </a>
-              <a class="link-unstyled" href="https://www.facebook.com/eclipse.org/" title="Facebook">
-              <span class="fa fa-stack">
-              <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
-              <i class="fa fa-facebook fa-stack-1x fa-inverse" aria-hidden="true"></i>
-              </span>
-              </a>
-              <a class="link-unstyled" href="https://twitter.com/EclipseFdn" title="Twitter">
-              <span class="fa fa-stack">
-              <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
-              <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-              </span>
-              </a>
+               <li>
+                <a class="link-unstyled" href="https://twitter.com/EclipseFdn" title="X account">
+                  <span class="fa-stack">
+                    <i class="fa-solid fa-circle fa-stack-2x" aria-hidden="true"></i>
+                    <i class="fa-brands fa-x-twitter fa-stack-1x fa-inverse" aria-hidden="true"></i>
+                    <span class="sr-only">X account</span>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a class="link-unstyled" href="https://www.facebook.com/eclipse.org" title="Facebook account">
+                  <span class="fa-stack">
+                    <i class="fa-solid fa-circle fa-stack-2x" aria-hidden="true"></i>
+                    <i class="fa-brands fa-facebook-f fa-stack-1x fa-inverse" aria-hidden="true"></i>
+                    <span class="sr-only">Facebook account</span>
+                  </span>
+                </a>
+              </li> 
+              <li>
+                <a class="link-unstyled" href="https://www.youtube.com/user/EclipseFdn" title="YouTube account">
+                  <span class="fa-stack">
+                    <i class="fa-solid fa-circle fa-stack-2x" aria-hidden="true"></i>
+                    <i class="fa-brands fa-youtube fa-stack-1x fa-inverse" aria-hidden="true"></i>
+                    <span class="sr-only">YouTube account</span>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a class="link-unstyled" href="https://www.linkedin.com/company/eclipse-foundation" title="Linkedin account">
+                  <span class="fa-stack">
+                    <i class="fa-solid fa-circle fa-stack-2x" aria-hidden="true"></i>
+                    <i class="fa-brands fa-linkedin-in fa-stack-1x fa-inverse" aria-hidden="true"></i>
+                    <span class="sr-only">Linkedin account</span>
+                  </span>
+                </a>
+              </li> 
             </ul>
           </div>
         </div>
         <div class="footer-end-newsletter">
           <div class="footer-end-newsletter">
-            <form id="mc-embedded-subscribe-form" action="https://eclipsecon.us6.list-manage.com/subscribe/post" method="post" novalidate target="_blank">
-                <label class="footer-end-newsletter-label" for="email">Subscribe to our Newsletter</label>
-                <div class="footer-end-newsletter-input-wrapper">
-                    <input class="footer-end-newsletter-input" type="email" id="email" name="EMAIL" autocomplete="email" placeholder="Enter your email address" />
-                    <div>
-                        <i class="fa fa-solid fa-envelope fa-lg" aria-hidden="true"></i>
-                    </div>
-                </div>
-                <input type="hidden" name="u" value="eaf9e1f06f194eadc66788a85" />
-                <input type="hidden" name="id" value="46e57eacf1" />
-                <input id="mc-embedded-subscribe" type="submit" name="subscribe" hidden />
+            <form 
+              id="mc-embedded-subscribe-form" 
+              action="https://eclipse.us6.list-manage.com/subscribe/post?u=eaf9e1f06f194eadc66788a85&amp;id=e7538485cd&amp;f_id=00f9c2e1f0" 
+              method="post" 
+              novalidate 
+              target="_blank"
+              >
+              <label class="footer-end-newsletter-label" for="email">Subscribe to our Newsletter</label>
+              <div class="footer-end-newsletter-input-wrapper">
+                <input class="footer-end-newsletter-input" type="email" id="email" name="EMAIL" autocomplete="email" placeholder="Enter your email address" />
+                <button class="footer-end-newsletter-submit btn btn-link" id="mc-embedded-subscribe" type="submit" name="subscribe">
+                  <i class="fa fa-solid fa-envelope fa-lg" aria-hidden="true"></i>
+                </button>
+              </div>
             </form>
           </div>
         </div>
@@ -1238,7 +1254,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </footer>
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="/eclipse.org-common/themes/solstice/public/javascript/astro.min.js?var=0.0.248"></script>
+<script src="https://www.eclipse.org/public/js/astro/main.js?v=0.1.2"></script>
 
 </body>
 </html>
